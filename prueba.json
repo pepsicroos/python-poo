@@ -1,0 +1,24 @@
+[
+     {
+          "id": "objeto 2",
+          "origen_x": 10,
+          "origen_y": 20,
+          "destino_x": 30,
+          "destino_y": 40,
+          "velocidad": 50,
+          "red": 60,
+          "green": 70,
+          "blue": 80
+     },
+     {
+          "id": "objeto 1",
+          "origen_x": 1,
+          "origen_y": 2,
+          "destino_x": 3,
+          "destino_y": 4,
+          "velocidad": 5,
+          "red": 6,
+          "green": 7,
+          "blue": 8
+     }
+]
